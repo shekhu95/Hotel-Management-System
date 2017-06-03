@@ -7,3 +7,5 @@ An application to be used for hotel management to store the details of its guest
 Originally compiled using **GCC 4.9.2**
 
 **Note** : Use "**pass12**" as password
+
+Shoutout to [Rachit Jas](https://github.com/theDesertEagle) for collaboration
